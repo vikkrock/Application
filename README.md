@@ -1,2 +1,2 @@
-# Application : changes made by Develpor B
+# Application : changes made by Developer B
 # Application : change made by DeveloperA
